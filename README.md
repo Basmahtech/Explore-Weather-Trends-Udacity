@@ -22,8 +22,8 @@ trends
 # Submission 
 
 - How to calcualte Moving Averages?
-- How to visualize the trends between local and global average temperatures?
 - Plot the chart with local and global temperature trends.
+- How to visualize the trends between local and global average temperatures?
 - Write is four observations about the similarities and differences in the trends.
 
 
