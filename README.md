@@ -7,10 +7,9 @@ trends
 ----------------
 
 # Setp
-Extract the data from the database use SQL provided in the Udacity.
-Create a line chart for data
-
-Make observations about the similarities and differences between the world average temeprature with the local average temperature.
+- Extract the data from the database use SQL provided in the Udacity.
+- Create a line chart for data.
+- Make observations about the similarities and differences between the world average temeprature with the local average temperature.
 
 ---------------
 
