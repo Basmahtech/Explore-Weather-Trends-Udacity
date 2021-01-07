@@ -24,6 +24,6 @@ trends
 
 - How to calcualte Moving Averages?
 - Plot the chart with local and global temperature trends.
-- Write is four observations about the similarities and differences in the trends.
+- Writing of four observations about the similarities and differences in the trends.
 
 
