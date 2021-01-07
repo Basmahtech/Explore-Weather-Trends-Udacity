@@ -1,13 +1,14 @@
 # Explore-Weather-Trends-Udacity
 ---------------
-In this report, I will analyze Manama city and global temperature data
-and I compare Manama city temperature trend with global temperature
+In this report, I will analyze Manama city and global temperatures data
+and I compare Manama city temperature trend with global temperatures
 trends
 
 ----------------
 
-# Setp
+# Steps
 - Extract the data from the database use SQL provided in the Udacity.
+- calcualte Moving Averages.
 - Create a line chart for data.
 - Make observations about the similarities and differences between the world average temeprature with the local average temperature.
 
